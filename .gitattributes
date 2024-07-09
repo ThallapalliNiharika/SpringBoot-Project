@@ -1,0 +1,4 @@
+# Specify languages for specific file extensions 
+*.java linguist-language=Java
+*.jsp linguist-language=jsp
+*.xml linguist-language= xml
